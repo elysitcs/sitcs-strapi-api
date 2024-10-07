@@ -59,3 +59,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+## Notes
+
+This project is configured to use MySQL, we had several issues with the configuration and the issue was generated for the password, we included the password inside ''.
