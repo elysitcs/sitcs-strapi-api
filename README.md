@@ -63,3 +63,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ## Notes
 
 This project is configured to use MySQL, we had several issues with the configuration and the issue was generated for the password, we included the password inside ''.
+
+https://strapi.io/blog/build-a-blog-post-preview-with-strapi-draft-and-publish-and-astro
